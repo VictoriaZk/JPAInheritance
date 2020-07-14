@@ -13,4 +13,6 @@ public abstract class Animal {
     private Long id;
 
     private String nickName;
+
+    private String feed;
 }
